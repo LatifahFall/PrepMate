@@ -53,4 +53,4 @@ An AI-powered web application designed to simulate interview dialogues and provi
 This project helps users improve their interview skills through AI-generated questions, real-time conversation simulation, and constructive feedback based on their responses.
 
  
-Connect on [LinkedIn](https://linkedin.com/in/yourprofile) • Email: your.email@example.com
+Connect on [LinkedIn](https://linkedin.com/in/LatifahFall) • Email: latifahfall888@gmail.com
